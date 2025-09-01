@@ -1,12 +1,11 @@
-# 用户数据同步仓库
+- 👋 Hi, I’m @CharlesMorse
+- 👀 I’m interested in Techonology
+- 🌱 I’m currently learning Obsidian note
+- 💞️ I’m looking to collaborate on read and learn
+- 📫 How to reach me by email:fzy196@outlook.com
 
-此仓库用于同步题库管理系统的用户数据。
 
-## 文件说明
-- `users.json` - 用户数据
-- `registration_codes.json` - 注册码数据
-- `sync_status.json` - 同步状态
-
-## 注意事项
-- 此仓库为私有仓库，请勿公开
-- 数据会自动同步，请勿手动修改
+<!---
+CharlesMorse/CharlesMorse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
