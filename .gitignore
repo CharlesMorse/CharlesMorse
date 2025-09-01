@@ -1,0 +1,7 @@
+# 忽略其他文件，只同步用户数据
+*
+!users.json
+!registration_codes.json
+!sync_status.json
+!.gitignore
+!README.md

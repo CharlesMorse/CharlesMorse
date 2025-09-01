@@ -1,0 +1,70 @@
+{
+  "PRO3PLDE95W": {
+    "code": "PRO3PLDE95W",
+    "user_type": "pro",
+    "description": "高级用户版",
+    "status": "unused",
+    "created_at": "2025-08-30T15:43:33.641011",
+    "expires_at": "2026-08-30T15:43:33.641133",
+    "used_by": null,
+    "used_at": null,
+    "permissions": {
+      "max_imports": 500,
+      "max_copies": 10,
+      "can_reset_counter": true,
+      "can_modify_settings": true,
+      "description": "高级用户版"
+    }
+  },
+  "PROBYU2YL2H": {
+    "code": "PROBYU2YL2H",
+    "user_type": "pro",
+    "description": "高级用户版",
+    "status": "unused",
+    "created_at": "2025-08-31T12:18:24.399858",
+    "expires_at": "2026-08-31T12:18:24.399947",
+    "used_by": null,
+    "used_at": null,
+    "permissions": {
+      "max_imports": 500,
+      "max_copies": 10,
+      "can_reset_counter": true,
+      "can_modify_settings": true,
+      "description": "高级用户版"
+    }
+  },
+  "PROS8ANUGN5": {
+    "code": "PROS8ANUGN5",
+    "user_type": "pro",
+    "description": "高级用户版",
+    "status": "unused",
+    "created_at": "2025-08-31T12:58:15.593764",
+    "expires_at": "2026-08-31T12:58:15.593911",
+    "used_by": null,
+    "used_at": null,
+    "permissions": {
+      "max_imports": 500,
+      "max_copies": 10,
+      "can_reset_counter": true,
+      "can_modify_settings": true,
+      "description": "高级用户版"
+    }
+  },
+  "PROWB3CMMPB": {
+    "code": "PROWB3CMMPB",
+    "user_type": "pro",
+    "description": "高级用户版",
+    "status": "unused",
+    "created_at": "2025-08-31T13:09:27.328209",
+    "expires_at": "2026-08-31T13:09:27.328338",
+    "used_by": null,
+    "used_at": null,
+    "permissions": {
+      "max_imports": 500,
+      "max_copies": 10,
+      "can_reset_counter": true,
+      "can_modify_settings": true,
+      "description": "高级用户版"
+    }
+  }
+}
